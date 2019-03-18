@@ -1,8 +1,4 @@
 
-Hi! 👋
-
-You've opened the IDE Sandbox, an environment that you can access on "readme" and "code-along" lessons in Learn. It's a great place to experiment with code! 🎉
-
 *IMPORTANT*
 Saving varies by the type of work you are doing:
 -- Most of the work you do in the Sandbox is automatically saved on your behalf to the `learn-co-sandbox` repository in your GitHub account. Please DO NOT touch this repository in GitHub. Doing so will affect your Sandbox experience, and potentially cause your work to fall out of sync.
